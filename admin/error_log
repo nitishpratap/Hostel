@@ -1,0 +1,125 @@
+[24-Feb-2020 05:31:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zamitesh/public_html/HOSTEL PROJECT/connection.php on line 3
+[24-Feb-2020 05:31:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[24-Feb-2020 05:31:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[24-Feb-2020 05:31:46 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, boolean given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 26
+[24-Feb-2020 05:31:46 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[24-Feb-2020 05:38:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zamitesh/public_html/HOSTEL PROJECT/connection.php on line 3
+[24-Feb-2020 05:38:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[24-Feb-2020 05:38:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[24-Feb-2020 05:38:46 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, boolean given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 26
+[24-Feb-2020 05:38:46 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[28-Feb-2020 06:25:42 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 136
+[28-Feb-2020 06:25:42 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 143
+[28-Feb-2020 06:25:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zamitesh/public_html/HOSTEL PROJECT/connection.php on line 7
+[04-Apr-2020 08:37:00 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 08:37:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 08:37:00 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 08:37:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 08:37:00 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 26
+[04-Apr-2020 08:37:00 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 26
+[04-Apr-2020 08:37:00 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 08:43:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 08:43:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 08:43:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 08:43:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 08:43:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 08:43:11 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 08:43:11 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 28
+[04-Apr-2020 09:03:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zamitesh/public_html/HOSTEL PROJECT/connection.php on line 14
+[04-Apr-2020 09:06:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'zamitesh'@'localhost' (using password: NO) in /home/zamitesh/public_html/HOSTEL PROJECT/connection.php on line 14
+[04-Apr-2020 09:45:13 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 09:45:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 09:45:13 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 09:45:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 09:45:13 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 09:45:13 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 09:45:13 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 28
+[04-Apr-2020 09:46:41 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 09:46:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 09:46:41 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 09:46:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 09:46:41 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 09:46:41 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 09:46:41 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 28
+[04-Apr-2020 10:07:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'techmart'@'localhost' (using password: NO) in /home/zamitesh/public_html/HOSTEL PROJECT/connection.php on line 14
+[04-Apr-2020 10:08:10 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 10:08:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[04-Apr-2020 10:08:10 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 10:08:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[04-Apr-2020 10:08:10 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 10:08:10 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[04-Apr-2020 10:08:10 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 28
+[14-May-2021 08:27:12 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[14-May-2021 08:27:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[14-May-2021 08:27:13 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[14-May-2021 08:27:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[14-May-2021 08:27:13 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[14-May-2021 08:27:13 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[14-May-2021 08:27:13 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 28
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 136
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 143
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 32
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 32
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 33
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 38
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 38
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 39
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 66
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 66
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 67
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 73
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 73
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 74
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 99
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 99
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 100
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 106
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 106
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 107
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 141
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 141
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 142
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 149
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 149
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 150
+[14-May-2021 08:40:56 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 175
+[14-May-2021 08:40:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 175
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 136
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 143
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 32
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 32
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 33
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 38
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 38
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 39
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 66
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 66
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 67
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 73
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 73
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 74
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 99
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 99
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 100
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 106
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 106
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 107
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 141
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 141
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 142
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 149
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 149
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 150
+[14-May-2021 08:41:11 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 175
+[14-May-2021 08:41:11 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/index.php on line 175
+[14-May-2021 08:43:37 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[14-May-2021 08:43:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 9
+[14-May-2021 08:43:37 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[14-May-2021 08:43:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 10
+[14-May-2021 08:43:37 UTC] PHP Notice:  Undefined variable: con in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[14-May-2021 08:43:37 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 27
+[14-May-2021 08:43:37 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/zamitesh/public_html/HOSTEL PROJECT/admin/validation_admin_login.php on line 28
+[14-May-2021 08:55:18 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 136
+[14-May-2021 08:55:18 UTC] PHP Notice:  Undefined index: username in /home/zamitesh/public_html/HOSTEL PROJECT/admin/includes/navbar.php on line 143
+[14-May-2021 08:55:18 UTC] PHP Notice:  Undefined variable: result in /home/zamitesh/public_html/HOSTEL PROJECT/admin/admin_edit.php on line 66
+[14-May-2021 08:55:18 UTC] PHP Notice:  Undefined variable: sno in /home/zamitesh/public_html/HOSTEL PROJECT/admin/admin_edit.php on line 101
